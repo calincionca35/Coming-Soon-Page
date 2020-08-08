@@ -7,4 +7,4 @@
   * responsive flat UI, asking only for user e-mail address
   * Session Storage and disabled submit button after submission to prevent information resubmission
   * JavaScript for front end form validation
-* View Coming Soon Page at http://htmlpreview.github.io/?https://github.com/calincionca35/Coming-Soon-Page/blob/master/root-coming-soon-1/index-coming-soon-1.html
+* [View Coming Soon Page](http://htmlpreview.github.io/?https://github.com/calincionca35/Coming-Soon-Page/blob/master/root-coming-soon-1/index-coming-soon-1.html)
