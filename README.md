@@ -7,3 +7,4 @@
   * responsive flat UI, asking only for user e-mail address
   * Session Storage and disabled submit button after submission to prevent information resubmission
   * JavaScript for front end form validation
+* View [Coming-Soon-Page](https://calin-cionca.000webhostapp.com/index-coming-soon-1.html)
